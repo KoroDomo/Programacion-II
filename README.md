@@ -37,7 +37,7 @@ principios a implementar.
 3. Refactoriza el código para cumplir con el principio correspondiente. 
 4. Sube tu solución a GitHub y organiza el código en carpetas.
 
-**Ejercicio 1: Aplicando KISS (Keep It Simple, Stupid) **
+- **Ejercicio 1: Aplicando KISS (Keep It Simple, Stupid)**
 Enunciado: 
 Un restaurante necesita calcular el total a pagar por los clientes. Se deben sumar los precios de los 
 platos y agregar una propina opcional. Actualmente, el código es innecesariamente complicado y 
@@ -57,7 +57,7 @@ Ingrese los precios de los platos (separados por comas): 200,150,300
 Total a pagar (con propina del 10%): 715   
 
 
-**Ejercicio 2: Aplicando DRY (Don't Repeat Yourself) **
+- **Ejercicio 2: Aplicando DRY (Don't Repeat Yourself)**
 Enunciado: 
 Una empresa necesita calcular el salario de sus empleados de manera eficiente. Actualmente, hay 
 código duplicado en los cálculos de impuestos y bonificaciones para empleados de tiempo 
@@ -77,7 +77,7 @@ Seleccione el tipo de empleado (1: Tiempo completo, 2: Medio tiempo): 1
 Ingrese el salario base: 50000   
 Salario neto después de impuestos y bono: 43250  
 
-**Ejercicio 3: Aplicando YAGNI (You Aren't Gonna Need It) **
+- **Ejercicio 3: Aplicando YAGNI (You Aren't Gonna Need It)**
 Enunciado: 
 Un sistema de gestión de productos permite agregar y eliminar productos. Sin embargo, el código 
 contiene un método para generar reportes que aún no es necesario. 
@@ -96,7 +96,7 @@ Ingrese el nombre del producto: Laptop
 Ingrese el precio: 750   
 Producto 'Laptop' agregado con éxito.
 
-**Ejercicio 4: Aplicando SOLID **
+- **Ejercicio 4: Aplicando SOLID**
 Enunciado: 
 Una empresa necesita un sistema de notificaciones que pueda enviar correos electrónicos y SMS, 
 pero la clase actual viola el Principio de Responsabilidad Única (SRP) porque también maneja el 
